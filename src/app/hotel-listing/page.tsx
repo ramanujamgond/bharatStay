@@ -34,7 +34,7 @@ const HotelListing = () => {
   return (
     <div>
       <div className="container">
-        <div className="relative pt-48">
+        <div className="relative mt-48">
           {/* search input date picker and guest details */}
           <SearchLocationDatePicker />
         </div>

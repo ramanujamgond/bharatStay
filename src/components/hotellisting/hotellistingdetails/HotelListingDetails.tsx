@@ -105,7 +105,7 @@ const HotelListingDetails: React.FC<HotelListingDetailsProps> = ({
 
   return (
     <div className="my-12 h-4/5">
-      <div className="flex items-center justify-between mt-14">
+      <div className="flex items-center justify-between mt-4">
         <div className="text-sm font-semibold text-[#656565]">
           {hotelList?.length} for hotel found
         </div>
